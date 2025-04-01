@@ -13,4 +13,4 @@
 ## Game Map
 You can use the following game map for easier understanding of the castle and where all the items are. The `look` command does not show the items in the room.
 
-![Game Map](images/nume_imagine.png)
+![Game Map](game_map.JPG)
