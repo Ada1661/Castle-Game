@@ -4,6 +4,8 @@
 ## Description
 *Castle of Illusions* is a text-based adventure game built in Python that demonstrates key LFA (Logic and Fundamentals of Algorithms) concepts. Explore a mysterious castle, collect essential items, and solve challenges to find the secret exit and escape!
 
+> **OBSERVATION:** This game is keysensitive!
+
 ## Game Mechanics
 - **Navigation:** Move between rooms using the command `go [room name]`.
 - **Exploration:** Use `look` to view the room description and see adjacent rooms.
